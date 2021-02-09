@@ -1,4 +1,4 @@
-# assignment4
+# Kaggle Competition for MAIS 202
 MAIS 202 Assignment 4: Kaggle Competition
 
 Instructions:
